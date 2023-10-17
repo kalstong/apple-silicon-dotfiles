@@ -1,0 +1,13 @@
+{
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "editor.inlineSuggest.enabled": true,
+    "git.autofetch": true,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": true,
+        "scminput": false
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true
+}
