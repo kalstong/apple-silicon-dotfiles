@@ -59,6 +59,11 @@ $(brew --prefix)/opt/fzf/install --no-fish --all
 cp dotfiles/vscode.settings.json ~/Library/Application Support/Code - Insiders/User/settings.json
 
 ################################################################################
+# mouse settings
+################################################################################
+cp dotfiles/mac-mouse-fix.config ~/Library/Application Support/com.nuebling.mac-mouse-fix/config.plist
+
+################################################################################
 # Node.js installation and configuration
 ################################################################################
 
